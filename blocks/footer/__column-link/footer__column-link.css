@@ -1,0 +1,9 @@
+.footer__column-link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column-link:hover {
+  padding-bottom: 2px;
+  border-bottom: 1px solid;
+}
