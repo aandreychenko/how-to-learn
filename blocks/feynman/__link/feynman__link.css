@@ -7,8 +7,10 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  transition: .2s ease;
 }
 
 .feynman__link:hover {
   border-bottom: 1px solid;
+  opacity: .7;
 }
